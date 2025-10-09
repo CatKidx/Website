@@ -12,6 +12,6 @@ body {
 body {
   text-align: center;
   font-family: 'Arial';
-  background: azure;
-  color: purple;
+  background: rgb(22, 136, 11);
+  color: rgb(0, 0, 0);
 }
